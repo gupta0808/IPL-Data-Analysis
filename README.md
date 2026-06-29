@@ -9,7 +9,7 @@ The core deliverable of this analysis is an interactive, data-driven dashboard, 
 
 ## 📊 Dashboard Preview
 
-![IPL Analysis Dashboard](image_bee2bd.jpg)
+![IPL Analysis Dashboard](ipl.jpeg)
 
 ---
 
